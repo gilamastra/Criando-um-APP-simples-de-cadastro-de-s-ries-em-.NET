@@ -1,0 +1,16 @@
+C:\Users\giova\Desktop\cursoCsharpDIO\DIOConsole\bin\Debug\net5.0\DIOConsole.exe
+C:\Users\giova\Desktop\cursoCsharpDIO\DIOConsole\bin\Debug\net5.0\DIOConsole.deps.json
+C:\Users\giova\Desktop\cursoCsharpDIO\DIOConsole\bin\Debug\net5.0\DIOConsole.runtimeconfig.json
+C:\Users\giova\Desktop\cursoCsharpDIO\DIOConsole\bin\Debug\net5.0\DIOConsole.runtimeconfig.dev.json
+C:\Users\giova\Desktop\cursoCsharpDIO\DIOConsole\bin\Debug\net5.0\DIOConsole.dll
+C:\Users\giova\Desktop\cursoCsharpDIO\DIOConsole\bin\Debug\net5.0\ref\DIOConsole.dll
+C:\Users\giova\Desktop\cursoCsharpDIO\DIOConsole\bin\Debug\net5.0\DIOConsole.pdb
+C:\Users\giova\Desktop\cursoCsharpDIO\DIOConsole\obj\Debug\net5.0\DIOConsole.csprojAssemblyReference.cache
+C:\Users\giova\Desktop\cursoCsharpDIO\DIOConsole\obj\Debug\net5.0\DIOConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Desktop\cursoCsharpDIO\DIOConsole\obj\Debug\net5.0\DIOConsole.AssemblyInfoInputs.cache
+C:\Users\giova\Desktop\cursoCsharpDIO\DIOConsole\obj\Debug\net5.0\DIOConsole.AssemblyInfo.cs
+C:\Users\giova\Desktop\cursoCsharpDIO\DIOConsole\obj\Debug\net5.0\DIOConsole.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\cursoCsharpDIO\DIOConsole\obj\Debug\net5.0\DIOConsole.dll
+C:\Users\giova\Desktop\cursoCsharpDIO\DIOConsole\obj\Debug\net5.0\ref\DIOConsole.dll
+C:\Users\giova\Desktop\cursoCsharpDIO\DIOConsole\obj\Debug\net5.0\DIOConsole.pdb
+C:\Users\giova\Desktop\cursoCsharpDIO\DIOConsole\obj\Debug\net5.0\DIOConsole.genruntimeconfig.cache
